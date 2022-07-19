@@ -15,5 +15,6 @@ public class App
         System.out.println("devUpdate2");
         System.out.println("masterUpdate");
         System.out.println("push");
+        System.out.println("updATE");
     }
 }
