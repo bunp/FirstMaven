@@ -12,6 +12,7 @@ public class App
         System.out.println("fdsfsdds");
         System.out.println( "Hello World!" );
         System.out.println("dev Update");
+        System.out.println("devUpdate2");
         System.out.println("masterUpdate");
     }
 }
